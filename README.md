@@ -1,6 +1,6 @@
 # ice.js
 
-**This is a clone of the New York Times' Ice library. The goal is to update the library for use on live websites for crowd-sourced typo reporting.
+**This is a clone of the New York Times' Ice library. The goal is to update the library for use on live websites for crowd-sourced typo reporting.**
 
 Ice is a track changes implementation, built in javascript, for anything that is `contenteditable` on the web. Conceived by the CMS Group at The New York Times, ice is powering the editor used for writing articles in the newsroom.
 
